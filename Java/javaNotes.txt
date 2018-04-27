@@ -1,0 +1,2 @@
+runtime exceptions are unchecked .. other all are checked exception that means we have to handle 
+these(checked) no matter what
